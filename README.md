@@ -39,3 +39,6 @@ The project represents an alpha version of a spaceship.
 
 ## Travis CI
 Continous Integration with Travis CI.
+
+## Merge conflict test
+(branch-B)
