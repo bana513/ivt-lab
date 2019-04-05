@@ -42,3 +42,4 @@ Continous Integration with Travis CI.
 
 ## Merge conflict test
 (branch-A)
+(branch-B)
